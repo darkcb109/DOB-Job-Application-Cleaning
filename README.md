@@ -10,11 +10,20 @@ Jerry Lee
 
 The notebook in /DOB Job Application Filings directory does the data profiting and data cleaning job for  DOB Job Application Filings dataset.
 
-Running the notebook in order will download the dataset and clean the data
+Running the notebook in order will download the dataset and clean the data.
 
 # other datasets
 
 We have chosen another 10 datasets to evaluate our methods which manually looks into each dataset and manually decide how to clean the data.
+
+
+Before run the data cleaning notebook, you should download all the datasets and put them in /other datasets directory.
+
+You can run the following notebook in order to download all necessary datasets:
+
+'download_datasets.ipynb'
+
+
 
 The notebooks below clean the data in our original ways, running the notebook in order will download the dataset and clean the data:
 
@@ -47,6 +56,10 @@ The notebooks below clean the data in generalized ways, running the notebook in 
 'improved.ipynb'
 
 'improved2.ipynb'
+
+# reference dataset
+
+We have used encyclopaedia_britannica:us_cities dataset in the OpenClean reference store, it's already available in the OpenClean, but you can also find in the /reference datasets folder. The file of this dataset is ncyclopaedia_britannica_us_cities.csv.
 
 # report
 
