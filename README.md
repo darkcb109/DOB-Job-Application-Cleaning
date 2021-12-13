@@ -51,7 +51,7 @@ However, manually looking into datasets and clean is unefficient, and we can not
 
 
 
-The notebooks below clean the data in generalized ways, running the notebook in order will only clean the data, make sure you ahve download those datasets in the directory:
+The notebooks below clean the data in generalized ways, running the notebook in order will only clean the data, make sure you have download those datasets in the directory:
 
 'improved.ipynb'
 
